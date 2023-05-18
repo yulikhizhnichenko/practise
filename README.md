@@ -1,1 +1,1 @@
-# practise
+This repo created for my practise job. In future i'll continue working on this project. Description will added soon. =)
